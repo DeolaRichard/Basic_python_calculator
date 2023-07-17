@@ -22,6 +22,7 @@ while True:
     print("B. Subtraction")
     print("C. Multiplication")
     print("D. Division")
+    print("E: Exit")
 
     choice = input("input your choice: ")
 
