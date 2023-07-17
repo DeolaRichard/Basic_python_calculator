@@ -23,3 +23,8 @@ print("B. Subtraction")
 print("C. Multiplication")
 print("D. Division")
 
+choice = input("input your choice: ")
+
+if choice == "a" or choice =="A":
+    print("Addition")
+    a = int(input("Enter first number"))
